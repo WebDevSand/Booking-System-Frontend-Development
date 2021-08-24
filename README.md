@@ -123,16 +123,6 @@ To run unit test run `npm test` in root directory.
 - Doctor's available slots
 - Rendering Optimization
 
-<!-- CONTACT -->
-## Authors
-
-👤 **Shabab Ali** 
-    
-- [LinkedIn](https://www.linkedin.com/in/shababali/)
-- [GitHub](https://github.com/alishabab)
-- [Email](shababsaifi@gmail.com)
-
-<!-- acknowledgments -->
 
 ## Acknowledgments
 
