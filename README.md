@@ -125,6 +125,6 @@ Give a ⭐️ if you like this project!
 [issues-shield]: https://img.shields.io/github/issues/alishabab/appointment-booking-frontend.svg?style=flat-square
 [issues-url]: https://github.com/alishabab/appointment-booking-frontend/issues
 
-## 📝 License
+## 📝 License 
 
 This project is [MIT](https://opensource.org/licenses/MIT) licensed.
