@@ -34,9 +34,7 @@
 
 In this project I have developed a single page application for a Hospital with react and redux libraries. App name is ABC Hospital. A user can sign up/login to see the details of doctors and book an appointment.
 
-App uses react router to route to different components. 
-Backend APIs are developed with Ruby on Rails. [Click here](https://github.com/alishabab/appointment-booking-backend) to see backend project details.
-
+App uses react router to route to different components
 
 <!-- Live Link  -->
 
